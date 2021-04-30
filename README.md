@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jeslynlamxy
+- 🌱 I’m currently in a computer science course
