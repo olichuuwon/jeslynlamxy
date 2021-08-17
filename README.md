@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @jeslynlamxy
 - 🌱 I’m currently in a computer science course
+- ✈️ I aspire to become a researcher and a full stack developer
+- 🚧 I am currently self learning ros and unreal engine (with motion capturing)
