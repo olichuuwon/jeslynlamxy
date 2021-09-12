@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeslynlamxy
 - 🌱 I’m currently in a computer science course
 - ✈️ I aspire to become a researcher (quantum computing) and a full stack developer
-- 🚧 I am currently self learning ros (self driving) ~and unreal engine (with motion capturing) (no money rip)~
+- 🚧 I am currently self learning ros (self driving) ~and unreal engine (with motion capturing - no money rip)~
 - 🚧 Also aiming to be oscp certified by end of 2022
 - 🚧 Through ceh + revisions + ctfs + hack the box runs throughout dec of 2021
