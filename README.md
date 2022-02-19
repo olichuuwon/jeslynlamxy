@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jeslynlamxy
-- 🌱 I’m currently in a computer science course and my job is related to cyber defence
-- ✈️ I aspire to become a researcher (quantum computing) and a full stack developer
+- 👋 Hi, I’m @jeslynlamxy, born in '98
+- 🌱 Currently a computer science undergrad with my job in the near future being related to cyber security
+- 👷🏽‍♀️ Working on my ceh & oscp certifications
+- ✈️ Interested in becoming a researcher (quantum computing) and a full stack developer as well
 - ⛔ Page is currently not actively managed
