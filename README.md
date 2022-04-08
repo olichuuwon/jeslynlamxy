@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeslynlamxy, born in '98
 - 🌱 Currently a computer science undergrad with my job in the near future being related to cyber security
 - 👷🏽‍♀️ Working on my ceh & oscp certifications
-- ✈️ Interested in becoming a researcher (quantum computing) and a full stack developer as well
+- ✈️ Interested in research (quantum computing) and becoming full stack developer as well
 - ⛔ Page is currently not actively managed
