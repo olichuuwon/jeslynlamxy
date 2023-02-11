@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @jeslynlamxy, born in '98
-- ⛔ Page is currently not actively managed
