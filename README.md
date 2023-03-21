@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jeslynlamxy, born in '98
 - 🏫 Some projects here are done for my cs undergrad coursework
-- 🐱 Currently doing a offsec course to hone my skills
+- 🐱 Always honing my skills
